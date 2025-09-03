@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "image": "https://via.placeholder.com/300x200?text=Headphones",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "stock": "in_stock",
+    "soldLast30Days": 120,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 149.99,
+    "image": "https://via.placeholder.com/300x200?text=Smart+Watch",
+    "description": "Smart fitness watch with heart-rate tracking and GPS.",
+    "stock": "low_stock",
+    "soldLast30Days": 45,
+    "badge": "On Demand"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/300x200?text=Speaker",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "stock": "not_available",
+    "soldLast30Days": 0,
+    "badge": ""
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/300x200?text=Gaming+Mouse",
+    "description": "Ergonomic gaming mouse with customizable DPI.",
+    "stock": "in_stock",
+    "soldLast30Days": 200,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/300x200?text=Keyboard",
+    "description": "Backlit mechanical keyboard with blue switches.",
+    "stock": "low_stock",
+    "soldLast30Days": 75,
+    "badge": ""
+  },
+  {
+    "id": 6,
+    "name": "4K Monitor",
+    "price": 329.99,
+    "image": "https://via.placeholder.com/300x200?text=4K+Monitor",
+    "description": "Ultra HD 27-inch monitor with HDR support.",
+    "stock": "in_stock",
+    "soldLast30Days": 60,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 7,
+    "name": "External SSD 1TB",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/300x200?text=SSD",
+    "description": "High-speed external SSD for fast data transfer.",
+    "stock": "in_stock",
+    "soldLast30Days": 180,
+    "badge": ""
+  },
+  {
+    "id": 8,
+    "name": "Laptop Stand",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/300x200?text=Laptop+Stand",
+    "description": "Adjustable laptop stand for improved ergonomics.",
+    "stock": "in_stock",
+    "soldLast30Days": 95,
+    "badge": "On Demand"
+  },
+  {
+    "id": 9,
+    "name": "Noise-Cancelling Earbuds",
+    "price": 79.99,
+    "image": "https://via.placeholder.com/300x200?text=Earbuds",
+    "description": "Compact earbuds with advanced noise cancellation.",
+    "stock": "low_stock",
+    "soldLast30Days": 120,
+    "badge": ""
+  },
+  {
+    "id": 10,
+    "name": "Webcam HD",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/300x200?text=Webcam",
+    "description": "HD webcam with built-in microphone for video calls.",
+    "stock": "in_stock",
+    "soldLast30Days": 140,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 11,
+    "name": "Smartphone Gimbal",
+    "price": 119.99,
+    "image": "https://via.placeholder.com/300x200?text=Gimbal",
+    "description": "3-axis smartphone gimbal stabilizer for video shooting.",
+    "stock": "not_available",
+    "soldLast30Days": 0,
+    "badge": ""
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charger Pad",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300x200?text=Charger",
+    "description": "Fast wireless charging pad compatible with all devices.",
+    "stock": "in_stock",
+    "soldLast30Days": 230,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "price": 69.99,
+    "image": "https://via.placeholder.com/300x200?text=Fitness+Tracker",
+    "description": "Lightweight tracker with step, sleep, and calorie monitoring.",
+    "stock": "in_stock",
+    "soldLast30Days": 160,
+    "badge": "On Demand"
+  },
+  {
+    "id": 14,
+    "name": "Drone Camera",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/300x200?text=Drone",
+    "description": "High-resolution drone with 4K camera and GPS navigation.",
+    "stock": "low_stock",
+    "soldLast30Days": 25,
+    "badge": ""
+  },
+  {
+    "id": 15,
+    "name": "Portable Projector",
+    "price": 249.99,
+    "image": "https://via.placeholder.com/300x200?text=Projector",
+    "description": "Compact HD projector suitable for home and office use.",
+    "stock": "in_stock",
+    "soldLast30Days": 55,
+    "badge": ""
+  }
+]

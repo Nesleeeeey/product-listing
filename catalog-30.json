@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "image": "https://via.placeholder.com/300x200?text=Headphones",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "stock": "in_stock",
+    "soldLast30Days": 120,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 149.99,
+    "image": "https://via.placeholder.com/300x200?text=Smart+Watch",
+    "description": "Smart fitness watch with heart-rate tracking and GPS.",
+    "stock": "low_stock",
+    "soldLast30Days": 45,
+    "badge": "On Demand"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/300x200?text=Speaker",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "stock": "not_available",
+    "soldLast30Days": 0,
+    "badge": ""
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/300x200?text=Gaming+Mouse",
+    "description": "Ergonomic gaming mouse with customizable DPI.",
+    "stock": "in_stock",
+    "soldLast30Days": 200,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/300x200?text=Keyboard",
+    "description": "Backlit mechanical keyboard with blue switches.",
+    "stock": "low_stock",
+    "soldLast30Days": 75,
+    "badge": ""
+  },
+  {
+    "id": 6,
+    "name": "4K Monitor",
+    "price": 329.99,
+    "image": "https://via.placeholder.com/300x200?text=4K+Monitor",
+    "description": "Ultra HD 27-inch monitor with HDR support.",
+    "stock": "in_stock",
+    "soldLast30Days": 60,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 7,
+    "name": "External SSD 1TB",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/300x200?text=SSD",
+    "description": "High-speed external SSD for fast data transfer.",
+    "stock": "in_stock",
+    "soldLast30Days": 180,
+    "badge": ""
+  },
+  {
+    "id": 8,
+    "name": "Laptop Stand",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/300x200?text=Laptop+Stand",
+    "description": "Adjustable laptop stand for improved ergonomics.",
+    "stock": "in_stock",
+    "soldLast30Days": 95,
+    "badge": "On Demand"
+  },
+  {
+    "id": 9,
+    "name": "Noise-Cancelling Earbuds",
+    "price": 79.99,
+    "image": "https://via.placeholder.com/300x200?text=Earbuds",
+    "description": "Compact earbuds with advanced noise cancellation.",
+    "stock": "low_stock",
+    "soldLast30Days": 120,
+    "badge": ""
+  },
+  {
+    "id": 10,
+    "name": "Webcam HD",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/300x200?text=Webcam",
+    "description": "HD webcam with built-in microphone for video calls.",
+    "stock": "in_stock",
+    "soldLast30Days": 140,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 11,
+    "name": "Smartphone Gimbal",
+    "price": 119.99,
+    "image": "https://via.placeholder.com/300x200?text=Gimbal",
+    "description": "3-axis smartphone gimbal stabilizer for video shooting.",
+    "stock": "not_available",
+    "soldLast30Days": 0,
+    "badge": ""
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charger Pad",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300x200?text=Charger",
+    "description": "Fast wireless charging pad compatible with all devices.",
+    "stock": "in_stock",
+    "soldLast30Days": 230,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "price": 69.99,
+    "image": "https://via.placeholder.com/300x200?text=Fitness+Tracker",
+    "description": "Lightweight tracker with step, sleep, and calorie monitoring.",
+    "stock": "in_stock",
+    "soldLast30Days": 160,
+    "badge": "On Demand"
+  },
+  {
+    "id": 14,
+    "name": "Drone Camera",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/300x200?text=Drone",
+    "description": "High-resolution drone with 4K camera and GPS navigation.",
+    "stock": "low_stock",
+    "soldLast30Days": 25,
+    "badge": ""
+  },
+  {
+    "id": 15,
+    "name": "Portable Projector",
+    "price": 249.99,
+    "image": "https://via.placeholder.com/300x200?text=Projector",
+    "description": "Compact HD projector suitable for home and office use.",
+    "stock": "in_stock",
+    "soldLast30Days": 55,
+    "badge": ""
+  },
+  {
+    "id": 16,
+    "name": "VR Headset",
+    "price": 399.99,
+    "image": "https://via.placeholder.com/300x200?text=VR+Headset",
+    "description": "Immersive virtual reality headset with motion controllers.",
+    "stock": "in_stock",
+    "soldLast30Days": 130,
+    "badge": "Trending"
+  },
+  {
+    "id": 17,
+    "name": "Smart Thermostat",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/300x200?text=Thermostat",
+    "description": "WiFi-enabled thermostat with smart scheduling.",
+    "stock": "low_stock",
+    "soldLast30Days": 35,
+    "badge": ""
+  },
+  {
+    "id": 18,
+    "name": "Robot Vacuum Cleaner",
+    "price": 229.99,
+    "image": "https://via.placeholder.com/300x200?text=Vacuum",
+    "description": "Automatic robot vacuum with mapping technology.",
+    "stock": "in_stock",
+    "soldLast30Days": 210,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 19,
+    "name": "Electric Toothbrush",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/300x200?text=Toothbrush",
+    "description": "Rechargeable toothbrush with multiple cleaning modes.",
+    "stock": "not_available",
+    "soldLast30Days": 0,
+    "badge": ""
+  },
+  {
+    "id": 20,
+    "name": "Smart Light Bulbs (Pack of 4)",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/300x200?text=Smart+Bulbs",
+    "description": "Color-changing LED bulbs controllable by phone or voice.",
+    "stock": "in_stock",
+    "soldLast30Days": 300,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 21,
+    "name": "E-Reader",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/300x200?text=E-Reader",
+    "description": "Lightweight e-reader with glare-free screen.",
+    "stock": "low_stock",
+    "soldLast30Days": 50,
+    "badge": "On Demand"
+  },
+  {
+    "id": 22,
+    "name": "Action Camera",
+    "price": 259.99,
+    "image": "https://via.placeholder.com/300x200?text=Action+Camera",
+    "description": "Rugged action camera with waterproof case.",
+    "stock": "in_stock",
+    "soldLast30Days": 175,
+    "badge": ""
+  },
+  {
+    "id": 23,
+    "name": "Portable Power Bank",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300x200?text=Power+Bank",
+    "description": "10,000mAh portable charger with fast USB output.",
+    "stock": "in_stock",
+    "soldLast30Days": 500,
+    "badge": "Best Seller"
+  },
+  {
+    "id": 24,
+    "name": "Smart Door Lock",
+    "price": 179.99,
+    "image": "https://via.placeholder.com/300x200?text=Smart+Lock",
+    "description": "Keyless entry smart lock with remote access.",
+    "stock": "in_stock",
+    "soldLast30Days": 90,
+    "badge": ""
+  },
+  {
+    "id": 25,
+    "name": "Gaming Controller",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/300x200?text=Controller",
+    "description": "Wireless controller compatible with PC and consoles.",
+    "stock": "low_stock",
+    "soldLast30Days": 70,
+    "badge": ""
+  },
+  {
+    "id": 26,
+    "name": "Noise-Cancelling Microphone",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/300x200?text=Microphone",
+    "description": "Professional-grade microphone for streaming.",
+    "stock": "in_stock",
+    "soldLast30Days": 150,
+    "badge": "Trending"
+  },
+  {
+    "id": 27,
+    "name": "Portable Grill",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/300x200?text=Grill",
+    "description": "Compact portable grill for camping and outdoor cooking.",
+    "stock": "not_available",
+    "soldLast30Days": 0,
+    "badge": "On Demand"
+  },
+  {
+    "id": 28,
+    "name": "Smart Coffee Maker",
+    "price": 149.99,
+    "image": "https://via.placeholder.com/300x200?text=Coffee+Maker",
+    "description": "WiFi-enabled coffee machine with scheduling features.",
+    "stock": "in_stock",
+    "soldLast30Days": 115,
+    "badge": "Our Choice"
+  },
+  {
+    "id": 29,
+    "name": "Camping Lantern",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/300x200?text=Lantern",
+    "description": "Rechargeable LED lantern with long battery life.",
+    "stock": "low_stock",
+    "soldLast30Days": 85,
+    "badge": ""
+  },
+  {
+    "id": 30,
+    "name": "Electric Scooter",
+    "price": 599.99,
+    "image": "https://via.placeholder.com/300x200?text=E-Scooter",
+    "description": "Foldable commuter electric scooter with long range.",
+    "stock": "in_stock",
+    "soldLast30Days": 75,
+    "badge": "Best Seller"
+  }
+]
