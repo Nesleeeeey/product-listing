@@ -97,9 +97,10 @@ function createCard(p) {
   title.className = 'title';
   title.textContent = p.name;
 
-  const desc = document.createElement('p');
+  const desc = document.createElement('div');
   desc.className = 'desc';
   desc.textContent = p.description;
+  media.appendChild(desc);
 
   // price & qty 
   const priceRow = document.createElement('div');
